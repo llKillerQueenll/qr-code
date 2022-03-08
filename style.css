@@ -50,7 +50,7 @@ body {
 }
 
 .box .text h1 {
-  color: --Dark_blue;
+  color: var(--Dark_blue);
   font-weight: 700;
   font-size: 22px;
   word-spacing: 1px;
